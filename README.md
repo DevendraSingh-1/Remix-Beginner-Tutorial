@@ -35,7 +35,7 @@ Don't forget to **like**, **subscribe**, and **comment** if you find the tutoria
 
 Here’s the folder structure we use in this project:
 
-\`\`\`
+```
 app/
 ├── routes/
 │ ├── index.tsx // Home route
@@ -47,7 +47,7 @@ app/
 ├── utils/ // Utility functions
 ├── root.tsx // Application root layout
 └── entry.client.tsx // Client-side entry point
-\`\`\`
+```
 
 ---
 
@@ -63,20 +63,20 @@ Make sure you have the following installed:
 ### Installation Steps
 
 1. Clone this repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/YOUR_USERNAME/remix-tutorial.git
    cd remix-tutorial
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. Start the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
 
