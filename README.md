@@ -108,7 +108,7 @@ This project is proudly sponsored by **Brilliant.org**.
 Brilliant is an interactive learning platform where you can master algorithms, data structures, programming, and more.
 
 Start your free 30-day trial and get 20% off a premium subscription:  
-[**Try Brilliant Now**](https://brilliant.org/YOUR_SPONSOR_LINK)
+[**Try Brilliant Now**](https://brilliant.org/pedrotech)
 
 ---
 
