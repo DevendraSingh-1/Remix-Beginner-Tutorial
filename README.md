@@ -35,6 +35,7 @@ Don't forget to **like**, **subscribe**, and **comment** if you find the tutoria
 
 Here’s the folder structure we use in this project:
 
+\`\`\`
 app/
 ├── routes/
 │ ├── index.tsx // Home route
@@ -46,6 +47,7 @@ app/
 ├── utils/ // Utility functions
 ├── root.tsx // Application root layout
 └── entry.client.tsx // Client-side entry point
+\`\`\`
 
 ---
 
